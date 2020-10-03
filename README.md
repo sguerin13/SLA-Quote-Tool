@@ -4,6 +4,6 @@ Made a quote tool to speed up the print-time calculation using an ANN to predict
 Also included code for generating an executable file using pyinstaller if desired.
 
 
-!(gui.png)
+![gui image](gui.png)
 
 
